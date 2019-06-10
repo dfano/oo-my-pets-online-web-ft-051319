@@ -24,5 +24,8 @@ class Owner
   end
 
 # -- METHODS -- #
+  def species
+    @species
+  end
 
 end
