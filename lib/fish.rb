@@ -4,7 +4,7 @@ class Fish
 
   @@all = []
 
-  def initialize(name, owner)
+  def initialize(name)
     @name = name
     @mood = "nervous"
   end
