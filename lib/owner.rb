@@ -24,6 +24,10 @@ class Owner
   end
 
 # -- METHODS -- #
+  def name=(name)
+    @name = name
+  end
+
   def species
     @species
   end
